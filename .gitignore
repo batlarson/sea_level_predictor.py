@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE config
+.vscode/
+.idea/
+
+# Output images
+*.png
+
+# OS-specific
+.DS_Store
+Thumbs.db
